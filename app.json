@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "privacy": "public",
+    "name": "Parkedin Apps",
+    "slug": "parkedin-apps",
+   	"version": "1.0",
+   	"orientation": "portrait",
+   	"primaryColor": "#f0f0f0",
+   	"description": "Parkedin Apps Development",
+   	"icon": "./assets/logo.png",
+   	"notification": {
+   		"icon": "./assets/logo.png"
+   	},
+   	"loading": {
+   		"icon": "./assets/logo.png"
+   	}
+  }
+}
